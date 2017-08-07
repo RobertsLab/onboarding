@@ -15,4 +15,6 @@ If you are being harassed, notice that someone else is being harassed, or have a
 
 We expect members to follow these guidelines at any lab-related event.
 
+---
+
 Modified from [Titus Brown's Code of Conduct](http://ivory.idyll.org/lab/coc.html). Original source and credit: http://2012.jsconf.us/#/about & The Ada Initiative. Please help by translating or improving: http://github.com/leftlogic/confcodeofconduct.com. This work is licensed under a Creative Commons Attribution 3.0 Unported License
