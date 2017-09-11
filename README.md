@@ -1,6 +1,6 @@
-## Onboarding to the [Roberts Lab](faculty.washington.edu/sr320) at the [Univeristy of Washington](https://www.washington.edu/).
+## Onboarding to the [Roberts Lab](faculty.washington.edu/sr320) at the [University of Washington](https://www.washington.edu/).
 
-Here we provide resources and information for new lab members.
+Here we provide resources and information for new and prospective lab members.
 
 [![Join the chat at https://gitter.im/RobertsLab/onboarding](https://badges.gitter.im/RobertsLab/onboarding.svg)](https://gitter.im/RobertsLab/onboarding?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
@@ -18,22 +18,20 @@ I will provide honest feedback in an effort to push you to be your best includin
 ### Expectations of Students
 Graduate school is not easy, and not for everyone. Graduate school will be very challenging, and for most very rewarding. Graduate school is not a job where you check-in and check-out each day, an educational endevour where you gain a deep understanding of a scientific area and complete your tenure by contributing a valuable research product that substantially advances knowledge. Understanding this might help you deal with the challenges and frustrations you will face.    
 
-of Conduct Code
-Annnotate
-Output directs
+Everyone will follow the [code of conduct](). Following this will contribute to a environment to succeed. 
+
+There is a lot going on during your graduate education. Staying organized and not overwhelmed is key. In the same vein time-management is key. There are several stategies for this. I suggest reading [Getting Things Done](). 
+
+A lot of our research involves computational analysis of large dataset. You will need to be competent in computing skills in basics of bash and R. The [Carpentries]() are a great resource for this, and a great place to start is a Software Carpentry lesson I have slightly modified. Another common task you should be able to accomplish is installing and running Blast. You should also be familiar with Jupyter Notebooks. As might be evident, we using GitHub extensively and you will using this to document code and data. 
+
+Electronic Open Lab Notebooks are also central to the lab. You will be required to document your activity _in real time_. This will include not only benchwork and computational work, but also reflections, questions, and monthly goals. 
+
+Writing. Always be doing it. Do not wait until you have completed a project but rather write the methods as you carry them out (or preferably before). This goes hand in hand with the lab notebook. Document your work in a detail that you and I can completely reproduce it in 5 years. 
 
 
-Writing
+This should be enough to know what you have gotten into. 
+There is a lot more stuff to delve into in the [wiki](). 
 
-Organized
-
-
-Time Managment
-
-
-
-If you made it this far...
-head on over to the wiki section to read more about
 
 
 
