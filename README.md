@@ -16,7 +16,7 @@ Everyone will follow the [code of conduct](https://github.com/RobertsLab/onboard
 
 There is a lot going on during your graduate education. Staying organized and not overwhelmed is key. In the same vein, time-management is key. There are several stategies for this. I suggest reading "Getting Things Done".
 
-A lot of our research involves computational analysis of large, novel datasets. You will need to be competent in computing skills including basics of bash and R. The [Carpentries](https://software-carpentry.org/) are a great resource for this, and a great place to start is a Software Carpentry lesson I have slightly modified. Another common task you should be able to accomplish is installing and running Blast on your own computer. You should also be familiar with Jupyter Notebooks. As might be evident, we using GitHub extensively and you will be using this to document code and data (and everything else).
+A lot of our research [involves computational analysis](https://github.com/RobertsLab/onboarding/wiki/Computing) of large, novel datasets. You will need to be competent in computing skills including basics of bash and R. A common task you should be able to accomplish is installing and running Blast on your own computer. You should also be familiar with Jupyter Notebooks. As might be evident, we using GitHub extensively and you will be using this to document code and data (and everything else).
 
 Electronic Open Lab Notebooks are also central to the lab. You will be required to document your activity _in real time_. This will include not only benchwork and computational work, but also reflections, questions, and monthly goals. Work 
 
