@@ -1,4 +1,4 @@
-## Onboarding to the [Roberts Lab](faculty.washington.edu/sr320) at the [University of Washington](https://www.washington.edu/).
+## Onboarding to the [Roberts Lab](https://faculty.washington.edu/sr320) at the [University of Washington](https://www.washington.edu/).
 
 Here we provide resources and information for new and prospective lab members.
 
